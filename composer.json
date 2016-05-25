@@ -1,6 +1,6 @@
 {
     "name": "xgen/laravel",
-    "description": "Generator Application laravel",
+    "description": "Generator Application laravel.",
     "type": "library",
     "license": [
 		"GPL-3.0+",
