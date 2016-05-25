@@ -1,0 +1,25 @@
+{
+    "name": "cormus/xgen/laravel",
+    "description": "Generator Application laravel",
+    "type": "library",
+    "license": 
+		"GPL-3.0+",
+        "LGPL-3.0+"
+    "authors": [
+        {
+            "name": "Alex Ribeiro",
+            "email": "alexprodutor@hotmail.com"
+        },
+		{
+			"name": "Community XGen",
+            "homepage": "https://github.com/cormus/xgen-laravel"
+		}
+    ],
+	"autoload": {
+		"psr-4": {
+          "": "vendor/xgen/libs/"
+        }
+	}
+    "minimum-stability": "dev",
+    "require": {}
+}
