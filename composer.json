@@ -2,9 +2,10 @@
     "name": "cormus/xgen/laravel",
     "description": "Generator Application laravel",
     "type": "library",
-    "license": 
+    "license": [
 		"GPL-3.0+",
         "LGPL-3.0+"
+	],
     "authors": [
         {
             "name": "Alex Ribeiro",
