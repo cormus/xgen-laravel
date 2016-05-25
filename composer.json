@@ -20,7 +20,7 @@
 		"psr-4": {
           "": "vendor/xgen/libs/"
         }
-	},.
+	},
     "minimum-stability": "dev",
     "require": {}
 }
