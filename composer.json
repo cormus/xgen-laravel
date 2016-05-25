@@ -1,5 +1,5 @@
 {
-    "name": "xgen-laravel",
+    "name": "xgen/laravel",
     "description": "Generator Application laravel",
     "type": "library",
     "license": [
