@@ -21,6 +21,7 @@
           "": "vendor/xgen/libs/"
         }
 	},
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {
+    }
 }
