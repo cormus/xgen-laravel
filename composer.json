@@ -4,7 +4,7 @@
     "type": "library",
     "license": [
 		"GPL-3.0+",
-        "LGPL-3.0+"
+		"LGPL-3.0+"
 	],
     "authors": [
         {
@@ -20,7 +20,7 @@
 		"psr-4": {
           "": "vendor/xgen/libs/"
         }
-	}
+	},.
     "minimum-stability": "dev",
     "require": {}
 }
